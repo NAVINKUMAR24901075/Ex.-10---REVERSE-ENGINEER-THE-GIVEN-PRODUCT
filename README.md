@@ -31,9 +31,8 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ### Output:
-![EXP3-1](https://github.com/user-attachments/assets/f7b39eff-ac98-4b86-9600-a1c816d54299)
-
-![EXP3-2](https://github.com/user-attachments/assets/09944f0b-593e-4f39-a30a-fb0cf30cbff5)
+![Screenshot 2025-04-24 154124](https://github.com/user-attachments/assets/ec4855e1-8587-44d1-b681-3c51b9985e39)
+![Screenshot 2025-04-24 154136](https://github.com/user-attachments/assets/a74511bc-0dc1-4b4c-9a19-67e47fabfba2)
 
 ### Name:S.NAVINKUMAR
 ### Register Number: 212224110041
